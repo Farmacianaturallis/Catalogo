@@ -59,7 +59,7 @@
     <div class="card">
       <h2>Emagrecedor Extra Forte</h2>
       <p>Com ativos naturais que auxiliam no metabolismo e redução de gordura corporal.</p>
-      <strong>R$ 70,00</strong>
+      <strong>R$ 99,00</strong>
     </div>
     <div class="card">
       <h2>Ômega do Coração</h2>
